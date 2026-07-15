@@ -1,0 +1,1 @@
+# linuxmint_qcow2
