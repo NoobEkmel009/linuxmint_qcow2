@@ -24,10 +24,9 @@ Bu projeyi Termux üzerinde çalıştırmak için aşağıdaki paketleri kurman�
 
 *Not: -m değeri RAM kullanım miktarını, -smp değeri ise kaç çekirdek kullanılacağını belirtir.*
 
-
-(English)
 # Linuxmint_qcow2
 
+(English)
 ### Prerequisites (Termux)
 To run this project on Termux, you need to install the following packages:
 
